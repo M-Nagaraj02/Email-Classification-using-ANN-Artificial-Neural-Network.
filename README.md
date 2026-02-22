@@ -9,7 +9,7 @@ Text data is converted into numerical features using TF-IDF Vectorization, and t
 ## Dataset:
 
 ```python
-  * Spam Email Dataset = (spam.csv)
+  Spam Email Dataset = (spam.csv)
 ```
   * Text-based email messages
 
