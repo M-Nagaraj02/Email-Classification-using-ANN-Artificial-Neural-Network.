@@ -4,6 +4,7 @@
 
 This project classifies emails as Spam (1) or Not Spam / Ham (0) using an Artificial Neural Network (ANN).
 Text data is converted into numerical features using TF-IDF Vectorization, and the ANN model is trained to perform binary classification.
+
 ---
 ## Dataset:
 
