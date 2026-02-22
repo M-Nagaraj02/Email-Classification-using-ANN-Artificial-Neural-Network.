@@ -35,9 +35,9 @@ Text data is converted into numerical features using TF-IDF Vectorization, and t
 Achieved strong classification accuracy on test data
 *Evaluated using:*
 
-   * Accuracy Score
-   * Confusion Matrix
+   * Accuracy 
    * Classification Report
+   * Explain with Loop Condition  
 
 ---
 ## Project Structure:
