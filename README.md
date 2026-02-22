@@ -1,7 +1,7 @@
 # 📧 Email Classification Using Artificial Neural Network (ANN)
 **Overview**
 
-This project classifies emails as Spam (1) or Not Spam / Ham (0) using an Artificial Neural Network (ANN).
+ This project classifies emails as Spam (1) or Not Spam / Ham (0) using an Artificial Neural Network (ANN).
 Text data is converted into numerical features using TF-IDF Vectorization, and the ANN model is trained to perform binary classification.
 
 **Dataset**
@@ -39,6 +39,7 @@ Achieved strong classification accuracy on test data
 
 
 **Project Structure**
+
 Email-Classification-using-ANN-Artificial-Neural-Network/
   │── Email_classification_using_ANN.ipynb
   │── spam.csv
