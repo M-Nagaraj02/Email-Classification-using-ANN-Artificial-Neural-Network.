@@ -1,10 +1,11 @@
 # 📧 Email Classification Using Artificial Neural Network (ANN)
-**Overview**
+----
+##**Overview**
 
  This project classifies emails as Spam (1) or Not Spam / Ham (0) using an Artificial Neural Network (ANN).
 Text data is converted into numerical features using TF-IDF Vectorization, and the ANN model is trained to perform binary classification.
-
-**Dataset**
+---
+##**Dataset**
 
   * Spam Email Dataset (spam.csv)
   * Text-based email messages
@@ -13,22 +14,22 @@ Text data is converted into numerical features using TF-IDF Vectorization, and t
 
    * 0 → Not Spam (Ham)
    * 1 → Spam
-
-**Methodology**
+---
+##**Methodology**
 
   * Text preprocessing and cleaning
   * Label encoding (Spam / Ham)
   * TF-IDF feature extraction
   * Train-test split (80% training, 20% testing)
   * Artificial Neural Network model building using TensorFlow/Keras
-
-**Model Architecture**
+---
+##**Model Architecture**
 
   * Input Layer (TF-IDF features)
   * Hidden Dense Layers with activation functions
   * Output Layer with Sigmoid activation (Binary Classification)
-
-**Results**
+---
+##**Results**
 
 Achieved strong classification accuracy on test data
 *Evaluated using:*
@@ -37,15 +38,17 @@ Achieved strong classification accuracy on test data
    * Confusion Matrix
    * Classification Report
 
-
-**Project Structure**
+---
+##**Project Structure**
 
 Email-Classification-using-ANN-Artificial-Neural-Network/
  * │── Email_classification_using_ANN.ipynb
  * │── spam.csv
  * │── README.md
+---
+##**Author**
 
-**Author**
+##Nagaraj M
 
-Nagaraj M
 GitHub: https://github.com/M-Nagaraj02
+---
