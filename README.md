@@ -41,9 +41,9 @@ Achieved strong classification accuracy on test data
 **Project Structure**
 
 Email-Classification-using-ANN-Artificial-Neural-Network/
-  │── Email_classification_using_ANN.ipynb
-  │── spam.csv
-  │── README.md
+ * │── Email_classification_using_ANN.ipynb
+ * │── spam.csv
+ * │── README.md
 
 **Author**
 
