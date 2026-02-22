@@ -49,7 +49,8 @@ Email-Classification-using-ANN-Artificial-Neural-Network/
 ---
 ## Author:
 
-## Nagaraj M
+**Nagaraj M**
 
 GitHub: https://github.com/M-Nagaraj02
+
 ---
